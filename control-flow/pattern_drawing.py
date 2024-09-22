@@ -1,4 +1,4 @@
-# pattern_drawing.py
+
 
 def main():
     
