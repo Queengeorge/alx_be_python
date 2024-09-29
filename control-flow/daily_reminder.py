@@ -25,9 +25,9 @@ def main():
         case "high":
             reminder = f"'{task}' is a high priority task."
     if time_bound == "yes":
-        reminder += " It requires immediate attention today!"
+        reminder == " It requires immediate attention today!"
     else:
-        reminder += " Consider completing it when you have free time."
+        reminder == " Consider completing it when you have free time."
     print("\nReminder:", reminder)
 
 if __name__ == "__main__":
